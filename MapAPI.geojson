@@ -1,0 +1,705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coffee MT (Coffe MT)",
+                "location": "Coffee MT, Phố Trấn Vũ 110, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84173,
+                    21.04444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bamboo Cafe",
+                "location": "Bamboo Cafe, Hẻm 6/12/5 Phố Đội Nhân, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81002,
+                    21.04226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nghiền Cafe",
+                "location": "Nghiền Cafe, Hẻm 6/12/5 Phố Đội Nhân, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80952,
+                    21.0421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boong Coffee & Tea",
+                "location": "Boong Coffee & Tea, Hẻm 6/12/5 Phố Đội Nhân, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80951,
+                    21.0421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe K80",
+                "location": "Cafe K80, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80951,
+                    21.04186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bốp Cafe",
+                "location": "Bốp Cafe, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80951,
+                    21.0418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hương Bông Chè Sầu",
+                "location": "Hương Bông Chè Sầu, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80901,
+                    21.04282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Sắc Màu",
+                "location": "Cafe Sắc Màu, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80979,
+                    21.04163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cty TNHH Kthuật Năng Lượng Hoàng An",
+                "location": "Cty TNHH Kthuật Năng Lượng Hoàng An, Phố Vĩnh Phúc 107, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81004,
+                    21.04348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Bốp",
+                "location": "Cafe Bốp, Ngách 6/9 Phố Vĩnh Phúc, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8094,
+                    21.04359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Nhà C5",
+                "location": "Cà Phê Nhà C5, Phố Vĩnh Phúc, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80957,
+                    21.04367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Panca",
+                "location": "Cafe Panca, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80852,
+                    21.04276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Cafe",
+                "location": "Quán Cafe, Ngõ 376 Đường Bưởi, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80923,
+                    21.04125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe H1",
+                "location": "Cafe H1, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80828,
+                    21.04262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Mộc",
+                "location": "Cafe Mộc, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80827,
+                    21.04249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Tường Vy",
+                "location": "Cafe Tường Vy, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80827,
+                    21.04256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Cong Chảnk",
+                "location": "Cafe Cong Chảnk, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80857,
+                    21.04354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hằng Coffee",
+                "location": "Hằng Coffee, Ngõ 6 Phố Vĩnh Phúc, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81012,
+                    21.04418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A Ă Â Coffee",
+                "location": "A Ă Â Coffee, Phố Vĩnh Phúc 75, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81027,
+                    21.04426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bacardi",
+                "location": "Bacardi, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80795,
+                    21.04301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Thiên Ân",
+                "location": "Cafe Thiên Ân, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80795,
+                    21.04301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Bệt",
+                "location": "Cafe Bệt, Phố Vĩnh Phúc 73, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81035,
+                    21.04437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Fine",
+                "location": "Cafe Fine, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8079,
+                    21.04288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Eden",
+                "location": "Café Eden, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80785,
+                    21.04294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Phong Vân",
+                "location": "Cafe Phong Vân, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80799,
+                    21.04337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Coffee",
+                "location": "S Coffee, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80783,
+                    21.04295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Tuyết Nhung",
+                "location": "Cafe Tuyết Nhung, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80801,
+                    21.04352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhi Hưng",
+                "location": "Nhi Hưng, Phố Đội Nhân 6C, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81158,
+                    21.04116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coffee Xanh",
+                "location": "Coffee Xanh, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80765,
+                    21.04291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Capital",
+                "location": "The Capital, Ngõ 57 Phố Vĩnh Phúc, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81049,
+                    21.04461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Chíp",
+                "location": "Cafe Chíp, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80762,
+                    21.04296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Kool",
+                "location": "Cafe Kool, Ngách 376/14 Đường Bưởi, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80825,
+                    21.04097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Minh Hương",
+                "location": "Cafe Minh Hương, Ngách 376/14 Đường Bưởi, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80826,
+                    21.0409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe 368",
+                "location": "Cafe 368, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80755,
+                    21.04292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H2 Coffee",
+                "location": "H2 Coffee, Ngách 376/31 Đường Bưởi, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80793,
+                    21.04125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Game Cafe",
+                "location": "Game Cafe, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8076,
+                    21.04318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drink Tea",
+                "location": "Drink Tea, Phố Vĩnh Phúc, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81046,
+                    21.04488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Bóng Đá",
+                "location": "Cafe Bóng Đá, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8075,
+                    21.04367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Cafe Internet",
+                "location": "Quán Cafe Internet, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80736,
+                    21.04391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Nhà Sàn",
+                "location": "Cafe Nhà Sàn, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80723,
+                    21.0439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coffee Linh",
+                "location": "Coffee Linh, Đường Bưởi 410, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80676,
+                    21.04144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giải Khát Mía Đá",
+                "location": "Giải Khát Mía Đá, Đường Bưởi 432, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80662,
+                    21.04179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Top",
+                "location": "Cà Phê Top, Đường Vĩnh Phúc, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80641,
+                    21.04289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Minh Tâm",
+                "location": "Bar Minh Tâm, Đường Bưởi, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80689,
+                    21.04072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Time Coffee",
+                "location": "Time Coffee, Ngõ 462 Đường Bưởi 7, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80638,
+                    21.04315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coffee Min",
+                "location": "Coffee Min, Đường Hoàng Hoa Thám 502, Quận Tây Hồ, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81239,
+                    21.04495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Cafe",
+                "location": "Quán Cafe, Phố Vĩnh Phúc 11, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8112,
+                    21.04567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vip Coffee",
+                "location": "Vip Coffee, Đường Hoàng Hoa Thám 527, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81189,
+                    21.04536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cây Đa Quán",
+                "location": "Cây Đa Quán, Phố Đốc Ngữ 83, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81304,
+                    21.04076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coffee Ngọc",
+                "location": "Coffee Ngọc, Đường Bưởi 480, Quận Ba Đình, Việt Nam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80641,
+                    21.04356
+                ]
+            }
+        }
+    ]
+}
